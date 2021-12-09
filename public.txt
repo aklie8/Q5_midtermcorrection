@@ -1,0 +1,8 @@
+2
+Truck, Toyota, 4, 10.0, 4, Tundra, 4, 3265, Pickup
+Bicycle, Trek, 2, Skye SLX, 10, 110, true, true 
+
+
+
+
+
